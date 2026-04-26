@@ -1,8 +1,8 @@
 # FUEL
 
-**ROS 2 version note:** This repository is a ROS 2 Humble adaptation modified from the original
-ROS 1 FUEL code by zry <zry1286631670@gmail.com>. The original FUEL method, paper, and author
-information are preserved below for proper attribution.
+**ROS 2 Humble port:** This repository provides a ROS 2 Humble adaptation of the original ROS 1
+FUEL framework, maintained by Zhang RY <zry1286631670@gmail.com>. The original FUEL algorithm,
+publication, and author attribution are preserved below.
 
 __News:__
 
